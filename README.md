@@ -23,3 +23,8 @@ Para ejecutar este proyecto en su máquina local, siga estos pasos:
 3. Abra una terminal en la raíz del proyecto y ejecute el siguiente comando para instalar las dependencias:
    ```bash
    flutter pub get
+
+[Grabación parcial DISPOSITIVOS MOVILES.zip](https://github.com/user-attachments/files/26333180/Grabacion.parcial.DISPOSITIVOS.MOVILES.zip)
+
+
+   
